@@ -1,0 +1,1 @@
+# write program for given number is even of odd
